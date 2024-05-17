@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-array",
+  "name": "ts-dynamic-array",
   "version": "1.0.0",
   "description": "Maintain a large array of data in a small memory footprint",
   "type": "module",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/e-hosseini/dynamic-array.git"
+    "url": "https://github.com/e-hosseini/ts-dynamic-array.git"
   },
   "keywords": [
     "dynamic array",
