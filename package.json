@@ -15,8 +15,7 @@
   "license": "ISC",
   "lint-staged": {
     "src/**/*.{ts,tsx,js,jsx}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "devDependencies": {
