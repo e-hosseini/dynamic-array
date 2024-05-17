@@ -1,4 +1,4 @@
-# DynamicArray
+# TsDynamicArray
 
 DynamicArray is a TypeScript utility for managing dynamic arrays with configurable focus, sorting, and key extraction. It provides methods to append items while maintaining the focus on a specific index. This package is designed to handle large arrays efficiently by reserving space and managing the array length dynamically.
 
@@ -7,10 +7,10 @@ DynamicArray is a TypeScript utility for managing dynamic arrays with configurab
 You can install the package using npm:
 
 ```bash
-npm install dynamic-array
+npm install ts-dynamic-array
 ```
 ```bash
-yarn add dynamic-array
+yarn add ts-dynamic-array
 ```
 
 
@@ -19,7 +19,7 @@ yarn add dynamic-array
 ### Importing the DynamicArray class
 
 ```typescript
-import { DynamicArray } from 'dynamic-array';
+import { DynamicArray } from 'ts-dynamic-array';
 ```
 
 ### Creating a DynamicArray instance
